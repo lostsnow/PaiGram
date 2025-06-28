@@ -230,7 +230,7 @@ sentry-sdk==2.30.0
     # via paigram
 setuptools==80.9.0
     # via influxdb-client
-simnet @ git+https://github.com/PaiGramTeam/SIMNet@01751e6de451e2351ce559be335fef966639b8b4
+simnet @ git+https://github.com/PaiGramTeam/SIMNet@2e527d216d54821cf7e9edf0e4db242de9733522
     # via paigram
 six==1.17.0
     # via python-dateutil
